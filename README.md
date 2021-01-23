@@ -6,7 +6,8 @@ To run this application,
 Run: 'npm run dev' from the root directory
 
 Reference: 
- - Code was improvised and redesigned according to my needs by refractoring the code from John Ahn [git@jaewonhimnae0
+ - Code was improvised, redesigned and refactored according to my needs.  
+  - Thank You John Ahn [git@jaewonhimnae] for initail code and the guided instruction.
 
 
 
